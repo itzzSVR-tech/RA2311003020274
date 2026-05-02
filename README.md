@@ -3,9 +3,9 @@
 A full-stack notification management system built for the Affordmed hiring evaluation. This platform features a real-time notification engine, a priority-ranking inbox, and a custom vehicle maintenance scheduler.
 
 **Student Details:**
-- **Name**: Dhanush Adi
-- **Roll Number**: RA2311003020344
-- **GitHub**: dhanush-adi
+- **Name**: SarVeshvarn R
+- **Roll Number**: RA2311003020274
+- **GitHub**: itzzSVR-tech
 
 ---
 
